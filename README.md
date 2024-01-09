@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satvik Singh Sengar</h1>
 <h3 align="center">A passionate Full Stack Java Developer.</h3>
 
-- 🌱 I’m currently learning **React, Microservices.**
 
 - 📝 I write articles on [https://satviksengarblogs.hashnode.dev/](https://satviksengarblogs.hashnode.dev/)
 
