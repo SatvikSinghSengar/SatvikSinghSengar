@@ -4,7 +4,7 @@
 
 - 📝 I write articles on [https://satviksengarblogs.hashnode.dev/](https://satviksengarblogs.hashnode.dev/)
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about ** Backend Tech**
 
 - 📫 How to reach me **linkedin.com/in/satvik-sengar**
 
